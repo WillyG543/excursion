@@ -1,0 +1,28 @@
+. {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: White;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  background-color: black
+  color: white;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+.link {
+  color:aquamarine;
+  font-size: 16px;
+}
+.copy {
+  text-align: right;
+  color: gray;
+}
